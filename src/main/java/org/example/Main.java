@@ -13,7 +13,6 @@ public class Main {
 
     public static int[] reverseThisArray(int[] array) {
 
-
         int[] temp = new int[array.length];
 
         for (int i = 0; i < array.length; i++) {
